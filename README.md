@@ -14,7 +14,7 @@
   - Redux;
   - NextJS.
 
-- BackEnd technologies:
+- :keyboard: BackEnd technologies:
   - PHP;
   - Laravel 7.x, 8.x, 9.x;
   - CodeIgniter 3, 4.x;
