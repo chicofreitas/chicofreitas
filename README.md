@@ -1,7 +1,27 @@
 - 👋 Hi, I’m @chicofreitas
 - 👀 I’m interested in work remotely, or hybrid; 
 - 🌱 I’m currently learning statistics with different programming languages, PHP 8.1 and Laravel 9.x new features;
-- 💞️ I’m looking to collaborate on creating websites, and ecommerce, events or SaaS systems. 
+- 💞️ I’m looking to collaborate on creating websites, and ecommerce, events or SaaS systems;
+- :desktop_computer: Core Techologies
+  - HTML5;
+  - CSS;
+  - Sass;
+  
+- :computer: Front technologies:
+  - JavaScript (Vanilla);
+  - TypeScript;
+  - ReactJS;
+  - Redux;
+  - NextJS.
+
+- BackEnd technologies:
+  - PHP;
+  - Laravel 7.x, 8.x, 9.x;
+  - CodeIgniter 3, 4.x;
+  - NodeJS;
+  - MySQL;
+  - SQL Server;
+
 - 📫 How to reach me: 
 
   +55 (86) 98849-6413. 
