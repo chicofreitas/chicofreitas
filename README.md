@@ -12,7 +12,8 @@
   - TypeScript;
   - ReactJS;
   - Redux;
-  - NextJS.
+  - NextJS;
+  - React Native.
 
 - :keyboard: BackEnd technologies:
   - PHP;
@@ -26,7 +27,7 @@
 
   +55 (86) 98849-6413. 
   
-  chicoo.freitas@gmail.com
+  chicoo.freitas84@gmail.com
   
   [LinkedIn](www.linkedin.com/in/prof-chico-freitas)
 
