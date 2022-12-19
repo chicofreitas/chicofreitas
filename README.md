@@ -13,6 +13,8 @@
   - ReactJS;
   - Redux;
   - NextJS;
+  - Express;
+  - Prisma;
   - React Native.
 
 - :keyboard: BackEnd technologies:
