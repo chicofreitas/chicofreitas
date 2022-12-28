@@ -22,8 +22,12 @@
   - Laravel 7.x, 8.x, 9.x;
   - CodeIgniter 3, 4.x;
   - NodeJS;
-  - MySQL;
-  - SQL Server;
+  - SQL
+    - MySQL;
+    - SQL Server;
+  - NOSQL
+    - MongoDB;
+    - GraphQL.
 
 - 📫 How to reach me: 
 
