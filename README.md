@@ -2,6 +2,19 @@
 - 👀 I’m interested in work remotely, or hybrid; 
 - 🌱 I’m currently learning statistics with different programming languages, PHP 8.1 and Laravel 9.x new features;
 - 💞️ I’m looking to collaborate on creating websites, and ecommerce, events or SaaS systems;
+## Languages
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="60" width="120"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="60" width="60"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="60" width="60"/>
+## FronEnd
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="60" width="60"/>   
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="60" width="60"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="60" width="60"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="60" width="60"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height="60" width="60"/>
+          
+          
 - :desktop_computer: Core Techologies
   - HTML5;
   - CSS;
