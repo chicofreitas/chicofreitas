@@ -25,11 +25,11 @@
 
 - 📫 How to reach me: 
 
-  +55 (86) 99556-5249. 
+  +55 (86) 98849-6413. 
   
   chicoo.freitas84@gmail.com
   
-  [LinkedIn](www.linkedin.com/in/prof-chico-freitas)
+  [LinkedIn](www.linkedin.com/in/mr-francisco-freitas)
 
 <!---
 chicofreitas/chicofreitas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
