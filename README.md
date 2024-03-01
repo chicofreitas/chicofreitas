@@ -7,10 +7,7 @@
 </div>
 
 <div align="center">
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=chicofreitas&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-            
+   
 </div>
 - 👋 Hi, I’m @chicofreitas
 - 👀 I’m interested in work remotely, or hybrid; 
