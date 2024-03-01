@@ -10,9 +10,13 @@
    
 </div>
 - 👋 Hi, I’m @chicofreitas
-- 👀 I’m interested in work remotely, or hybrid; 
+
+- 👀 I’m interested in work remotely, or hybrid;
+
 - 🌱 I’m currently learning statistics with different programming languages, PHP 8.1 and Laravel 10.x new features;
+  
 - 💞️ I’m looking to collaborate on creating websites, and ecommerce, events or SaaS systems;
+  
 
 ## Languages
 
