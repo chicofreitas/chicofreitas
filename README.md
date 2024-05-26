@@ -9,6 +9,7 @@
 <div align="center">
    
 </div>
+
 - 👋 Hi, I’m @chicofreitas
 
 - 👀 I’m interested in work remotely, or hybrid;
